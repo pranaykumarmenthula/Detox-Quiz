@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": [".py", ".pt", ".pyt", ".python"],
+        "correctAnswer": ".py"
+    },
+    {
+        "question": "How do you start a comment in Python?",
+        "options": ["#", "//", "/*", "<!--"],
+        "correctAnswer": "#"
+    },
+    {
+        "question": "Which function is used to output data to the console?",
+        "options": ["print()", "echo()", "output()", "show()"],
+        "correctAnswer": "print()"
+    },
+    {
+        "question": "What symbol is used for multiplication in Python?",
+        "options": ["*", "x", "·", "×"],
+        "correctAnswer": "*"
+    },
+    {
+        "question": "How do you create a list in Python?",
+        "options": ["list = []", "list = {}", "list = ()", "list = <>"],
+        "correctAnswer": "list = []"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["func", "define", "def", "function"],
+        "correctAnswer": "def"
+    },
+    {
+        "question": "What is the output of '5' + '5' in Python?",
+        "options": ["10", "55", "Error", "5+5"],
+        "correctAnswer": "55"
+    },
+    {
+        "question": "How do you insert an element at the end of a list?",
+        "options": ["list.add()", "list.insert()", "list.append()", "list.push()"],
+        "correctAnswer": "list.append()"
+    },
+    {
+        "question": "What will be the result of 10 / 3 in Python 3.x?",
+        "options": ["3", "3.0", "3.33", "3.3333333333333335"],
+        "correctAnswer": "3.3333333333333335"
+    },
+    {
+        "question": "How do you write a single-line comment in Python?",
+        "options": ["// comment", "# comment", "/* comment */", "<!-- comment -->"],
+        "correctAnswer": "# comment"
+    },
+    {
+        "question": "Which data type is immutable in Python?",
+        "options": ["list", "dict", "set", "tuple"],
+        "correctAnswer": "tuple"
+    },
+    {
+        "question": "What is the keyword used for creating a class in Python?",
+        "options": ["class", "create", "def", "type"],
+        "correctAnswer": "class"
+    },
+    {
+        "question": "What is the output of '2 ** 3' in Python?",
+        "options": ["6", "8", "9", "23"],
+        "correctAnswer": "8"
+    },
+    {
+        "question": "How do you access the first element of a list named 'my_list'?",
+        "options": ["my_list[1]", "my_list.first()", "my_list.get(0)", "my_list[0]"],
+        "correctAnswer": "my_list[0]"
+    },
+    {
+        "question": "What will be the output of 'bool(0)' in Python?",
+        "options": ["True", "False", "0", "Error"],
+        "correctAnswer": "False"
+    },
+    {
+        "question": "Which method is used to remove whitespace from the beginning and end of a string?",
+        "options": ["strip()", "trim()", "remove()", "clear()"],
+        "correctAnswer": "strip()"
+    },
+    {
+        "question": "How do you start a loop that iterates over a range of numbers from 0 to 4?",
+        "options": ["for i in range(5):", "for i in range(0, 4):", "for i in range(0, 5):", "for i in range(1, 5):"],
+        "correctAnswer": "for i in range(5):"
+    },
+    {
+        "question": "How do you concatenate two strings 'Hello' and 'World' in Python?",
+        "options": ["'Hello' + 'World'", "'Hello'.concat('World')", "'Hello' & 'World'", "'Hello'.append('World')"],
+        "correctAnswer": "'Hello' + 'World'"
+    },
+    {
+        "question": "What function is used to get the length of a string?",
+        "options": ["length()", "len()", "size()", "count()"],
+        "correctAnswer": "len()"
+    },
+    {
+        "question": "What will be the output of '5 // 2' in Python?",
+        "options": ["2", "2.5", "3", "Error"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "How do you handle exceptions in Python?",
+        "options": ["try...catch", "try...except", "try...finally", "catch...finally"],
+        "correctAnswer": "try...except"
+    },
+    {
+        "question": "Which of the following is a valid variable name in Python?",
+        "options": ["my_variable", "my-variable", "my variable", "my@variable"],
+        "correctAnswer": "my_variable"
+    },
+    {
+        "question": "What is the output of 'not True' in Python?",
+        "options": ["True", "False", "None", "Error"],
+        "correctAnswer": "False"
+    },
+    {
+        "question": "How do you define a dictionary in Python?",
+        "options": ["dict = {}", "dict = []", "dict = ()", "dict = <>"],
+        "correctAnswer": "dict = {}"
+    },
+    {
+        "question": "How do you check the type of a variable?",
+        "options": ["type()", "check()", "typeof()", "var_type()"],
+        "correctAnswer": "type()"
+    },
+    {
+        "question": "Which keyword is used to exit a loop early?",
+        "options": ["break", "exit", "stop", "return"],
+        "correctAnswer": "break"
+    },
+    {
+        "question": "What does 'self' refer to in a class method?",
+        "options": ["The class itself", "The instance of the class", "A global variable", "A method of the class"],
+        "correctAnswer": "The instance of the class"
+    },
+    {
+        "question": "How do you merge two lists in Python?",
+        "options": ["list1.merge(list2)", "list1 + list2", "list1.append(list2)", "list1.extend(list2)"],
+        "correctAnswer": "list1 + list2"
+    },
+    {
+        "question": "What is the output of '2 * 3 ** 2'?",
+        "options": ["12", "18", "36", "64"],
+        "correctAnswer": "18"
+    },
+    {
+        "question": "How do you sort a list in Python?",
+        "options": ["list.sort()", "sort(list)", "list.order()", "order(list)"],
+        "correctAnswer": "list.sort()"
+    },
+    {
+        "question": "What is the output of '5 == 5'?",
+        "options": ["True", "False", "5", "Error"],
+        "correctAnswer": "True"
+    },
+    {
+        "question": "What will be the result of 'True and False'?",
+        "options": ["True", "False", "0", "Error"],
+        "correctAnswer": "False"
+    },
+    {
+        "question": "How do you define a constant variable in Python?",
+        "options": ["const variable = value", "variable = value", "VARIABLE = value", "constant = value"],
+        "correctAnswer": "VARIABLE = value"
+    },
+    {
+        "question": "Which method is used to find the index of an element in a list?",
+        "options": ["find()", "index()", "search()", "locate()"],
+        "correctAnswer": "index()"
+    },
+    {
+        "question": "How do you remove an item from a list by its index?",
+        "options": ["list.remove(index)", "list.pop(index)", "list.delete(index)", "list.drop(index)"],
+        "correctAnswer": "list.pop(index)"
+    },
+    {
+        "question": "What will be the output of 'str(123)'?",
+        "options": ["'123'", "123", "Error", "None"],
+        "correctAnswer": "'123'"
+    },
+    {
+        "question": "How do you check if a value is present in a list?",
+        "options": ["value in list", "list.contains(value)", "list.includes(value)", "list.has(value)"],
+        "correctAnswer": "value in list"
+    },
+    {
+        "question": "Which operator is used for string formatting in Python?",
+        "options": ["%", "=", "+", "format()"],
+        "correctAnswer": "%"
+    },
+    {
+        "question": "How do you get the keys from a dictionary?",
+        "options": ["dict.keys()", "dict.getKeys()", "dict.allKeys()", "dict.listKeys()"],
+        "correctAnswer": "dict.keys()"
+    },
+    {
+        "question": "What is the output of 'len([])'?",
+        "options": ["0", "1","Error", "None"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Which method is used to add an item to the end of a list?",
+        "options": ["add()", "append()", "insert()", "extend()"],
+        "correctAnswer": "append()"
+    },
+    {
+        "question": "How do you combine two dictionaries in Python?",
+        "options": ["dict1 + dict2", "dict1.merge(dict2)", "dict1.update(dict2)", "dict1.combine(dict2)"],
+        "correctAnswer": "dict1.update(dict2)"
+    },
+    {
+        "question": "What is the result of '3 == 3.0'?",
+        "options": ["True", "False", "Error", "None"],
+        "correctAnswer": "True"
+    },
+    {
+        "question": "How do you check for equality of two strings?",
+        "options": ["str1 == str2", "str1.equals(str2)", "str1.isEqual(str2)", "str1.compare(str2)"],
+        "correctAnswer": "str1 == str2"
+    },
+    {
+        "question": "What will be the output of 'print(0 == False)'?",
+        "options": ["True", "False", "0", "Error"],
+        "correctAnswer": "True"
+    },
+    {
+        "question": "Which function is used to get the current date and time?",
+        "options": ["datetime.now()", "time.now()", "date.current()", "datetime.today()"],
+        "correctAnswer": "datetime.now()"
+    },
+    {
+        "question": "What is the output of 'bool([])'?",
+        "options": ["True", "False", "[]", "Error"],
+        "correctAnswer": "False"
+    },
+    {
+        "question": "How do you create a new empty set?",
+        "options": ["set = []", "set = {}", "set = set()", "set = ()"],
+        "correctAnswer": "set = set()"
+    },
+    {
+        "question": "How do you define a tuple in Python?",
+        "options": ["tuple = []", "tuple = {}", "tuple = ()", "tuple = <>"],
+        "correctAnswer": "tuple = ()"
+    },
+    {
+        "question": "What is the output of '3.14 * 2'?",
+        "options": ["6.28", "3.14", "Error", "6"],
+        "correctAnswer": "6.28"
+    },
+    {
+        "question": "How do you create a variable with the value 10 in Python?",
+        "options": ["variable = 10", "var = 10", "int variable = 10", "var int = 10"],
+        "correctAnswer": "variable = 10"
+    },
+    {
+        "question": "What is the result of 'True or False'?",
+        "options": ["True", "False", "None", "Error"],
+        "correctAnswer": "True"
+    },
+    {
+        "question": "Which method is used to convert a string to lowercase?",
+        "options": ["lower()", "toLowerCase()", "convertLower()", "caseLower()"],
+        "correctAnswer": "lower()"
+    },
+    {
+        "question": "What is the purpose of the 'pass' statement in Python?",
+        "options": ["To indicate a placeholder", "To exit a function", "To skip a loop iteration", "To define a function"],
+        "correctAnswer": "To indicate a placeholder"
+    },
+    {
+        "question": "How do you define a class method in Python?",
+        "options": ["def method_name(self):", "def method_name():", "class method_name(self):", "method_name(self):"],
+        "correctAnswer": "def method_name(self):"
+    },
+    {
+        "question": "What will be the output of 'print(2**3)'?",
+        "options": ["8", "6", "9", "Error"],
+        "correctAnswer": "8"
+    },
+    {
+        "question": "How do you round a number to the nearest integer?",
+        "options": ["round()", "int()", "floor()", "ceil()"],
+        "correctAnswer": "round()"
+    },
+    {
+        "question": "How do you check if a key exists in a dictionary?",
+        "options": ["key in dict", "dict.hasKey(key)", "dict.exists(key)", "key.exists(dict)"],
+        "correctAnswer": "key in dict"
+    },
+    {
+        "question": "What will be the result of 'len('hello')'?",
+        "options": ["5", "4", "Error", "None"],
+        "correctAnswer": "5"
+    },
+    {
+        "question": "How do you remove an item from a dictionary by its key?",
+        "options": ["del dict[key]", "dict.remove(key)", "dict.pop(key)", "dict.erase(key)"],
+        "correctAnswer": "del dict[key]"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "URL Request Counter",
+    "version": "1.0",
+    "description": "Counts requests to a specific URL and opens a new tab when the count exceeds a threshold.",
+    "permissions": [
+      "webRequest",
+      "declarativeNetRequest",
+      "tabs",
+      "storage"
+    ],
+    "host_permissions": [
+        "*://*.www.instagram.com/"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "web_accessible_resources": [
+    {
+      "resources": ["questions.json"],
+      "matches": ["<all_urls>"]
+    }
+    ]
+}
+  
